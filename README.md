@@ -1,4 +1,4 @@
-![introduction_to_pyspark_for_beginners_jpg](https://github.com/user-attachments/assets/cfb6d036-3cd9-4650-a956-ab2ff6a73886)## 🏆 Certifications  
+## 🏆 Certifications  
 | Certification | Badge | Verify |  
 |---------------|-------|--------|  
 | **Power BI for Beginners** | ![CERTIFICATE]() | [Link](https://www.credly.com/badges/YOUR_ID) |  
