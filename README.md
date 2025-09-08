@@ -1,5 +1,5 @@
 ## 🏆 Certifications  
-| Certification | Badge | Verify |  
+| Certification Name | Certificate | Verify |  
 |---------------|-------|--------|  
 | **Internship Certificate** | ![CERTIFICATE](internship_certificate.jpg) || 
 | **SQL Basic** | ![CERTIFICATE](SQL_Basic_HackerRank_Certification.png) | [Link](https://www.hackerrank.com/certificates/f883132cd614) |  
